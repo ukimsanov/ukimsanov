@@ -63,5 +63,5 @@
 
 # 📩 Let's Connect!
 - Email: [ularkimsanov7@gmail.com](mailto:ularkimsanov7@gmail.com)  
-- LinkedIn: [ukimsanov](in/ukimsanov)  
-- Portfolio: [Working on it 😮‍💨](#)
+- LinkedIn: [ukimsanov](https://www.linkedin.com/in/ukimsanov)  
+- Portfolio: Working on it 😮‍💨
