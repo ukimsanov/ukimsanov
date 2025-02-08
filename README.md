@@ -2,7 +2,7 @@
 
 👨🏻‍💻 **Computer Science Student** sharing my journey and learnings in tech <br/>
 🎓 Studying at **Arcadia University, United States** <br/>
-🌐 Passionate about **software development**, **AI algorithms**, and **app development** <br/>
+🌐 Passionate about **Software Development**, **AI algorithms**, and **App development** <br/>
 ⏳ Currently working as an **IT Assistant** at my university to gain hands-on experience <br/>
 
 [![Ular's GitHub stats](https://github-readme-stats.vercel.app/api?username=ukimsanov&show_icons=true&theme=dark)](https://github.com/ukimsanov/github-readme-stats)
