@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Ular!
+# 👋 Hi, I'm Ular! I'm a Software Engineer :)
 
-👨🏻‍💻 **Computer Science Student** sharing my journey and learnings in tech <br/>
-🎓 Studying at **Arcadia University, United States** <br/>
-🌐 Passionate about **Software Development**, **AI algorithms**, and **App development** <br/>
-⏳ Currently working as a **Software Engineer** <br/>
+👨🏻‍💻 **CS at Arcadia University** sharing my journey and learnings in tech <br/>
+🎓 Studying at **Philadelphia, United States** <br/>
+🌐 Passionate about **Software Engineering**, **AI Engineering**, and **App Development** <br/>
+⏳ Currently working as a **Software Engineer** and **AI Engineer** <br/>
 
 [![Ular's GitHub stats](https://github-readme-stats.vercel.app/api?username=ukimsanov&show_icons=true&theme=dark)](https://github.com/ukimsanov/github-readme-stats)
 
