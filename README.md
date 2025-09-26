@@ -2,7 +2,7 @@
 
 💻 CS student at Arcadia University | Building scalable apps & AI solutions  
 🌍 Based in Philadelphia, passionate about **Software Engineering, AI, and DevOps**  
-🚀 Currently working on projects that bring together **frontend design** and **AI-powered systems**
+🚀 Currently working on projects that bring together **frontend design** and **AI-powered systems**  
 🤝 Always open to collaborating on exciting projects — feel free to reach out!
 
 
