@@ -5,7 +5,17 @@
 🚀 Currently working on projects that bring together **frontend design** and **AI-powered systems**  
 🤝 Always open to collaborating on exciting projects — feel free to reach out!
 
+<div align="left">
+  <a href="mailto:ularkimsanov7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ukimsanov/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
+<br>
+  
 [![Ular's GitHub stats](https://github-readme-stats.vercel.app/api?username=ukimsanov&show_icons=true&theme=dark)](https://github.com/ukimsanov/github-readme-stats)
 
 # 💻 Tech Stack
@@ -37,11 +47,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # 🌱 What I'm Learning
-- Exploring **AI** and **DevOps**  
+- Hands-on with Kubernetes for scalable AI deployments.
+- Learning LangChain and vector databases for LLM apps.
 - Building proficiency in **Frontend and Software Development**  
 
 
 # 📩 Let's Connect!
 - Email: [ularkimsanov7@gmail.com](mailto:ularkimsanov7@gmail.com)  
 - LinkedIn: [ukimsanov](https://www.linkedin.com/in/ukimsanov)  
-- Portfolio: Working on it 😮‍💨
+- Portfolio: [ularkimsanov](https://ularkimsanov.com)
