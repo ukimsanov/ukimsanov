@@ -24,10 +24,10 @@
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ukimsanov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ukimsanov&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ukimsanov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ukimsanov&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+</p>
 
 ---
 
