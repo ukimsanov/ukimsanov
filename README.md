@@ -1,5 +1,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&width=680&height=46&vCenter=true&lines=Hey%2C+I'm+Ular!+Full+Stack+%2B+AI+Engineer;Building+Multi-Agent+AI+Systems;NSF+Research+%7C+AWS+Certified+%7C+4%2B+Years+Experience" alt="Typing SVG" /></a>
-
 💻 CS student at Arcadia University | Building scalable apps & AI solutions
 <br/>
 🌍 Based in Philadelphia, passionate about **Software Engineering, AI, and DevOps**
@@ -28,8 +27,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ukimsanov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=ukimsanov&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 </p>
-
----
 
 ## Tech Stack
 
@@ -79,8 +76,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
 ## Awards & Achievements
 
 | Achievement | Details |
@@ -91,21 +86,15 @@
 | **NSF Research** | Software Engineer & Research Assistant |
 | **Dean's List** | Distinguished (4x) + Honors (4x) |
 
----
-
 ## Currently Learning
 
 - Advanced **Kubernetes** for scalable AI deployments
 - **LangGraph** multi-agent orchestration patterns
 - **Vector databases** for RAG systems
 
----
-
 ## Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ukimsanov&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
----
 
 ## Contribution Snake
 
@@ -115,14 +104,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/ukimsanov/ukimsanov/output/github-snake.svg" />
 </picture>
 
----
-
 ## Languages
 
 **Fluent:** English, Russian, Kyrgyz
 **Proficient:** Turkish, Kazakh
-
----
 
 ## Let's Connect!
 
