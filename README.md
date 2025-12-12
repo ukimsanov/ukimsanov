@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&width=1000&height=40&lines=Hey%2C+I'm+Ular!+Full+Stack+%2B+AI+Engineer;Building+Multi-Agent+AI+Systems;NSF+Research+%7C+AWS+Certified+%7C+4%2B+Years+Experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&width=1000&height=40&center=false&lines=Hey%2C+I'm+Ular!+Full+Stack+%2B+AI+Engineer;Building+Multi-Agent+AI+Systems;NSF+Research+%7C+AWS+Certified+%7C+4%2B+Years+Experience" alt="Typing SVG" /></a>
+
 💻 CS student at Arcadia University | Building scalable apps & AI solutions
 <br/>
 🌍 Based in Philadelphia, passionate about **Software Engineering, AI, and DevOps**
