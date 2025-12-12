@@ -21,12 +21,8 @@ Currently engineering AI agent systems at **Astera Holdings** and **NSF-funded**
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ukimsanov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ukimsanov&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ukimsanov&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ukimsanov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ukimsanov&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </div>
 
 ---
