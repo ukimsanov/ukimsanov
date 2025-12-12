@@ -31,49 +31,6 @@
 
 ---
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### LectureFlow - AI Lecture Notes
-Multi-agent orchestration with **LangGraph**, Gemini 2.5 & GPT-4o-mini. Real-time SSE streaming, 99% cost reduction with smart caching.
-
-`Python` `LangGraph` `FastAPI` `Next.js`
-
-</td>
-<td width="50%" valign="top">
-
-### Horizon - Banking Platform
-Full-stack fintech with real-time fund transfers via **Dwolla API** and multi-bank integration using **Plaid**. 99.9% uptime.
-
-`Next.js` `TypeScript` `Plaid` `Dwolla`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### CryptoLive - Trading Platform
-Real-time crypto tracking with TradingView-style charts, live WebSocket streaming (<170ms latency), 7 timeframes.
-
-`React` `FastAPI` `WebSockets` `Kraken`
-
-</td>
-<td width="50%" valign="top">
-
-### Neural Digit Canvas
-ML web app with 98.2% accuracy on MNIST. Serverless backend on **AWS Lambda** with Docker containerization.
-
-`Python` `PyTorch` `Next.js` `AWS`
-
-</td>
-</tr>
-</table>
-
----
-
 ## Tech Stack
 
 ### AI/ML & Agent Systems
