@@ -21,8 +21,8 @@ Currently engineering AI agent systems at **Astera Holdings** and **NSF-funded**
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ukimsanov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=ukimsanov&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ukimsanov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ukimsanov&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -146,7 +146,7 @@ ML web app with 98.2% accuracy on MNIST. Serverless backend on **AWS Lambda** wi
 
 ## Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/api/graph?username=ukimsanov&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ukimsanov&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 ---
 
