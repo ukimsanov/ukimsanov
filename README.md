@@ -76,6 +76,14 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ukimsanov/ukimsanov/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ukimsanov/ukimsanov/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ukimsanov/ukimsanov/output/github-snake.svg" />
+</picture>
+
 ## Awards & Achievements
 
 | Achievement | Details |
@@ -91,18 +99,6 @@
 - Advanced **Kubernetes** for scalable AI deployments
 - **LangGraph** multi-agent orchestration patterns
 - **Vector databases** for RAG systems
-
-## Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ukimsanov&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ukimsanov/ukimsanov/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ukimsanov/ukimsanov/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ukimsanov/ukimsanov/output/github-snake.svg" />
-</picture>
 
 ## Languages
 
