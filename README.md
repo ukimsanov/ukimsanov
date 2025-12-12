@@ -1,7 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=1000&lines=Hey%2C+I'm+Ular!+Full+Stack+%2B+AI+Engineer;Building+Multi-Agent+AI+Systems;NSF+Research+%7C+AWS+Certified+%7C+4%2B+Years+Experience" alt="Typing SVG" /></a>
 
-CS @ Arcadia University (3.94 GPA) | Building scalable apps & AI solutions
-Currently engineering AI agent systems at **Astera Holdings** and **NSF-funded** cybersecurity platforms
+💻 CS student at Arcadia University | Building scalable apps & AI solutions
+🌍 Based in Philadelphia, passionate about **Software Engineering, AI, and DevOps**
+🚀 Currently working on projects that bring together **multi-agent orchestration** and **AI-powered systems**
+🤝 Always open to collaborating on exciting projects — feel free to reach out!
 
 <div align="left">
   <a href="mailto:ularkimsanov7@gmail.com" target="_blank">
@@ -13,7 +15,6 @@ Currently engineering AI agent systems at **Astera Holdings** and **NSF-funded**
   <a href="https://ularkimsanov.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=24292e&style=for-the-badge" height="35" alt="Portfolio"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ukimsanov&color=58A6FF&style=for-the-badge" height="35" alt="Profile Views"/>
 </div>
 
 <br>
